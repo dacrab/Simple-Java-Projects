@@ -9,7 +9,7 @@ Welcome to my repository for Java projects! Here you'll find a collection of Jav
 
 3. [**Expense Tracker**](./Expense.java): A Java program to help users track their expenses, allowing them to input daily expenses, categorize them, and view statistics.
 
-4. [**Weather Forecast App**](./WeatherForecasApp.java): A Java application that retrieves weather forecast data from an API, allowing users to enter a location and display the weather forecast for that location.
+4. [**Weather Forecast App**](./WeatherForecastApp.java): A Java application that retrieves weather forecast data from an API, allowing users to enter a location and display the weather forecast for that location.
 
 5. [**File Encryption/Decryption Tool**](./FileEncryptionDecreptionTool.java): A Java program that encrypts and decrypts files using cryptographic algorithms, allowing users to select a file, choose encryption or decryption mode, and provide a key.
 
